@@ -1,16 +1,72 @@
-<h1 align="center">HELLO I'M RAFAEL ORTEGA ROLDÁN
+# ¡Hola! 👋 Soy Rafael
 
-<a href="https://www.producthunt.com/posts/awesome-github-profiles?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-awesome-github-profiles" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" alt="Awesome GitHub Profiles - Best curated list of developers readme, updated every 15 min | Product Hunt" style="width: 200px; height: 44px;" width="200" height="44" /></a></h1>Hi, my name is Rafa, 
 <div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://arbeitnow.com/?utm_source=awesome-github-profile-readme"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=arbeitnow&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/abhisheknaiidu" ><img src="https://img.shields.io/twitter/follow/abhisheknaiidu.svg?style=social" /> </a>
-<br>
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" alt="Bienvenido" width="300"/>
+</div>
 
-<i>A curated list of awesome Github Profile READMEs</i>
+---
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
+### 🌍 Acerca de mí
+
+Soy Rafael, un apasionado de los deportes y la aventura. Tengo 22 años y vengo de **La Pobla de Vallbona**, un lugar donde el sol y el deporte son parte del día a día. ¡Siempre busco nuevas experiencias y oportunidades para aprender y crecer! 🚀
+
+### 🎓 Formación
+
+- 📘 **Educación**: ESO y Grado en Actividad Física y Deportes.
+- 🏆 **Certificaciones**:
+  - Monitor de esquí ⛷️
+  - Monitor de tiempo libre 🎈
+  - Socorrista 🏊‍♂️
+  - Monitor de vela ⛵
+
+### 💼 Experiencia Laboral
+
+He tenido la oportunidad de trabajar en diversas áreas, desde la gestión en oficina hasta la enseñanza de deportes. Aquí algunas de mis experiencias:
+
+- **Administrador en Docendo** 🏢: Manejo de documentos y tareas administrativas.
+- **Almacén en Chovi** 📦: Control de inventario y logística.
+- **Camarero** ☕: Atención al cliente y trabajo en equipo.
+- **Profesor de deportes** 🏀: Enseñanza de actividades al aire libre.
+
+---
+
+### 🚀 Habilidades
+
+<div align="center">
+  <img src="https://media.giphy.com/media/5xaOcLGvzHxDKjufnLW/giphy.gif" alt="Skills" width="200"/>
+</div>
+
+- Gestión de equipos y liderazgo 🏅
+- Adaptabilidad y resolución de problemas ⚙️
+- Conocimientos en deportes y recreación 🏃‍♂️
+- Habilidades organizativas y administrativas 📊
+
+---
+
+### 🌱 Actualmente
+
+Estoy en búsqueda de nuevas oportunidades para seguir aprendiendo y creciendo en el mundo deportivo y la gestión, además de explorar la tecnología para integrar nuevas herramientas en mi día a día. 💻
+
+### 📫 ¡Conéctate conmigo!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/rafael-username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tuemail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Thanks" width="200"/>
+</div>
+
+---
+
+> _"El deporte no construye el carácter. Lo revela."_ – Heywood Broun
+
+¡Gracias por visitar mi perfil! 😄 Siempre estoy abierto a nuevas conexiones y oportunidades, así que no dudes en ponerte en contacto.
+
